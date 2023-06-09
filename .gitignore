@@ -1,0 +1,6 @@
+# dir
+/node_modules
+.idea
+
+# files
+public/main.js
